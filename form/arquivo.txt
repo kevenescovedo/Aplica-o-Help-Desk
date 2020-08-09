@@ -1,0 +1,7 @@
+2#eeeeeeeeee#Criação Usuário#aa
+4#Notebook não liga#Hardware#Meu notebook não liga ao apertar o botão power, poderia solucionar isso para mim ?
+2#Internet não funciona#Rede#Minha internet não está funcionando já renicei o modem e mesmo assim ele não funciona
+2#Impressora não funciona#Impressora#A impressora não está imprimindo a folha passa apenas pela entrada porém nada é impresso poderia selecionar para mim ?
+
+2#Monitor não está em uma tela preta ao ligar#Hardware#olá o monitor meu não está aparecendo  nada quando eu ligo aparece um tela preta , porém está ligado, poderia resolver isso para mim  ?
+3#POPs aparecendo toda hora !!#Software#no meu computador a cada 5 minutos aparece um POP ups de conteúdos inapropriados que estão me incomodando, poderia resolver para mim 
